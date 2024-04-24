@@ -89,7 +89,9 @@
   margin: 0;
   overflow: hidden;
 }
-.dev-name{
-  color: #fff;
-  font-family: "Bangers", cursive;
+
+.logo{
+  width: 400px;
+  height: 400px;
 }
+
