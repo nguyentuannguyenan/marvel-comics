@@ -8,6 +8,8 @@ function App() {
     <div className='App'>
       <div className='container'>
         <span className='rainbow-text body'>Created by Nguyen Tuan Nguyen An</span>
+      </div>
+      <div className='container'>
         <a href="/">
         <img src={logo} alt="logo" className='logo' />
         </a>
